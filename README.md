@@ -1,2 +1,1 @@
-# mati-button-with-nextjs
-Created with CodeSandbox
+# Mati button Next.js example
