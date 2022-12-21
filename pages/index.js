@@ -15,7 +15,7 @@ export default function IndexPage() {
 
       <div>
         <mati-button
-          clientId="5c94e3c401ddc6001be83c07" // from your Mati dashboard
+          clientId="636aa045e2fb0d001c6c6497" // from your Mati dashboard
           flowId="5ebec108872d4e001b83ee9b" // from your Mati dashboard
           color="#000000" // any color
           metadata='{"user_id":"1234778"}'
